@@ -8,7 +8,7 @@ and is one of a few such simple python programms neccessary to pass the class_
 
 > #### Description of project
 >
->>
+>>A program which calculates how many times we have to multiply the digits of a number in order to get one digit result.
 
 > #### About this project
 >
